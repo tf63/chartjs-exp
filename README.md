@@ -1,4 +1,5 @@
-### next template
+### chartjs exp tutorial
+code from https://react-chartjs-2.netlify.app/examples
 
 ```
     # プロジェクトの作成
